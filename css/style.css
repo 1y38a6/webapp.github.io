@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: black;
+    height: 98vh;
+}
+
+::-webkit-scrollbar {
+    width: 6px;
+    margin-left: 6px;
+    background: #0c050d;
+}
+ 
+::-webkit-scrollbar-thumb {
+    background: #77405b;
+    -webkit-border-radius: 1ex;
+}
+ 
+::-webkit-scrollbar-corner {
+    background: black;
+}
